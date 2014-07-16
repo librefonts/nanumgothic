@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright &#169; 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      NanumGothic
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      ExtraBold
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      2.030;SAND;NanumGothicExtraBold
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      NanumGothic ExtraBold
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 2.030;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      NanumGothic-ExtraBold
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0">
+      NanumGothic ExtraBold is a registered trademark of NHN Corporation.
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Bruce Kwon; Nicolas Noh; Sung-woo Choi;
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      http://www.sandoll.co.kr
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="0" platformID="1" platEncID="3" langID="0x17">
+      Copyright &#131; 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="3" langID="0x17">
+      &#179;&#170;&#180;&#174;&#176;&#237;&#181;&#241;
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="3" langID="0x17">
+      ExtraBold
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="3" langID="0x17">
+      &#179;&#170;&#180;&#174;&#176;&#237;&#181;&#241; ExtraBold
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="3" langID="0x17">
+      &#177;&#199;&#176;&#230;&#188;&#174;; &#179;&#235;&#191;&#181;&#177;&#199;; &#195;&#214;&#188;&#186;&#191;&#236;;
+    </namerecord>
+    <namerecord nameID="20" platformID="1" platEncID="3" langID="0xffff">
+      NanumGothicExtraBold-KSCpc-EUC-H
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright &#169; 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      NanumGothicExtraBold
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      2.030;SAND;NanumGothicExtraBold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      NanumGothicExtraBold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2.030;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      NanumGothic-ExtraBold
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      NanumGothic ExtraBold is a registered trademark of NHN Corporation.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Bruce Kwon; Nicolas Noh; Sung-woo Choi;
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.sandoll.co.kr
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      NanumGothic
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      ExtraBold
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#44256;&#46357; ExtraBold
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x412">
+      Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#44256;&#46357; ExtraBold
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x412">
+      &#44428;&#44221;&#49437;; &#45432;&#50689;&#44428;; &#52572;&#49457;&#50864;;
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#44256;&#46357;
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x412">
+      ExtraBold
+    </namerecord>
+  </name>
+
+</ttFont>
