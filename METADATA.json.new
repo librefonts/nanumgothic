@@ -1,0 +1,42 @@
+{
+  "name": "Nanum Gothic",
+  "designer": "Sandoll Communication",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Handwriting",
+  "size": 1016468,
+  "fonts": [
+    {
+      "name": "NanumGothic",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NanumGothic-Bold.ttf",
+      "postScriptName": "NanumGothic-Bold",
+      "fullName": "NanumGothic Bold",
+      "copyright": "Copyright (c) 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+    },
+    {
+      "name": "NanumGothic",
+      "style": "normal",
+      "weight": 800,
+      "filename": "NanumGothic-ExtraBold.ttf",
+      "postScriptName": "NanumGothic-ExtraBold",
+      "fullName": "NanumGothicExtraBold",
+      "copyright": "Copyright (c) 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+    },
+    {
+      "name": "NanumGothic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NanumGothic-Regular.ttf",
+      "postScriptName": "NanumGothic",
+      "fullName": "NanumGothic",
+      "copyright": "Copyright (c) 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-05-09"
+}
